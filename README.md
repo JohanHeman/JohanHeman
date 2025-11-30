@@ -4,7 +4,7 @@ My name is Johan, and i am a student learning .NET development to learn how to b
 
 - 🔭 I’m currently working on small projects to practice
 - 🌱 I’m currently learning sql, creating and using databases, i am also learning html, css and javascript from The Odin Project.
-- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: jojo2001@hotmail.se
 
 
 <!--
